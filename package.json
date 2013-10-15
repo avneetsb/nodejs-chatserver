@@ -1,0 +1,25 @@
+{
+	"name": "nodejs-chatserver",
+	"version": "0.0.1",
+	"description": "A basic ChatSever using Node.js and Express.js",
+	"author": {
+		"name": "Avneet Singh Bindra",
+		"email": "avneet_bindra@live.com"
+	},
+	"website":{
+		"url": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/avneetsb/nodejs-chatserver"
+	},
+	"private": true,
+	"dependencies": {
+		"express": "*",
+		"socket.io": "*"
+	},
+	"engines": {
+		"node": "*",
+		"npm":  "*"
+	}
+}
